@@ -8,4 +8,5 @@ package dao;
 public class UserDao {
     private String name;
     private int id;
+    private int count;
 }
