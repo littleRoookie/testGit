@@ -9,4 +9,5 @@ public class UserDao {
     private String name;
     private int id;
     private boolean flag;
+    private int count;
 }
